@@ -1,7 +1,7 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.lnGElFxAZRvbCbIXwyKaqAHaED?pid=ImgDet&rs=1)]
+![MasterHead](https://wallpapercave.com/wp/wp6910034.jpg)
 <h1 align="center">Hi 👋, I'm Sanjaya</h1>
 <h3 align="center">Transforming data into strategic insights through code and visuals</h3>
-<img align="right" alt="Data Analysis" width="400" src="https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI">
+<img align="right" alt="Data Analysis" width="400" src="https://info.ehl.edu/hubfs/Blog-EHL-Insights/Blog-Header-EHL-Insights/data%20analysis%202.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaya-bandara&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaya-bandara" /> </p>
